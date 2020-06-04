@@ -9,7 +9,7 @@ link-https://www.dropbox.com/s/ue6ql8ebdxf42hz/images.zip?dl=0
 
 We have imported Tkinter, which is the standard GUI library for Python.It is used to create GUI applications and it is provides a powerful object-oriented interface to the Tkinter GUI toolkit.
 
-Pong Game:
+PONG GAME:
 
 Brick Breaker (platformer) is a Breakout clone which the player must hit a wall by deflecting a bouncing ball with a paddle. The paddle may move horizontally and is controlled with the the computer's mouse or keyboard the touch of a finger (in the case of touchscreen).
 
